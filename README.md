@@ -1,2 +1,2 @@
 # etch-a-eketch
-bunyaminozturk-etch-a-sketch.netlify.app
+https://bunyaminozturk-etch-a-sketch.netlify.app
