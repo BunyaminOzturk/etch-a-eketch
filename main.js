@@ -6,11 +6,14 @@ makeCell();
 
 });
 
-
 function makeCell(){
+
+ const existing = document.querySelector('#gridContainer');
+ if (existing) existing.remove();
 
 // Grid container
 const container = document.createElement('div');
+ container.id = "gridContainer";
 
 // Container styles
 container.style.display = "grid";
